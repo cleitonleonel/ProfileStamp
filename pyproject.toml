@@ -1,0 +1,19 @@
+[project]
+name = "profilestamp"
+version = "0.1.0"
+description = "ProfileStamp é uma biblioteca Python para gerar selos personalizados (stamps) em fotos de perfil."
+authors = [
+    {name = "cleiton",email = "cleiton.leonel@gmail.com"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy (>=2.2.4,<3.0.0)",
+    "pillow (>=11.1.0,<12.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
