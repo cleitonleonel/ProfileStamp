@@ -55,9 +55,9 @@ generate_profile_stamp(
 ## 🧩 Cores Pré-definidas
 
 ```python
-"roxo", "azul", "azul_claro", "verde", "verde_claro", 
-"vermelho", "laranja", "amarelo", "rosa", "cinza", 
-"preto", "branco"
+"purple", "blue", "light_blue", "green", "light_green",
+"red", "orange", "yellow", "pink", "gray",
+"black", "white"
 ```
 
 Você também pode usar tuplas RGBA personalizadas como: `(255, 0, 0, 255)`.
