@@ -33,7 +33,7 @@ generate_profile_stamp(
 
 ### Resultado:
 
-<img src="/src/img/stamp.png" width="300">
+<img src="/src/img/stamp.png" width="250">
 
 ---
 
